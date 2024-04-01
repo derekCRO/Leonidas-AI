@@ -5231,7 +5231,7 @@
 				e$ = [{
 					id: "navLink01",
 					name: "Docs",
-					link: "https://gitbook.io/",
+					link: "https://medium.com/@leonidasai_erc20/",
 					offsite: !0
 				}, {
 					id: "navLink01",
@@ -5241,7 +5241,7 @@
 				}],
 				eZ = [{
 					name: "Twitter",
-					link: "https://twitter.com/leonidasai_erc20/",
+					link: "https://twitter.com/ai_leonidas",
 					offsite: !0
 				}, {
 					name: "Telegram",
@@ -10222,13 +10222,13 @@
 				offsite: !1
 			}, {
 				id: "navLink03",
-				title: "Partners",
-				url: "#Partners",
-				offsite: !1
+				title: "Dextools",
+				url: "https://www.dextools.io/app/en/ether/pair-explorer/0x",
+				offsite: !0
 			}, {
 				id: "navLink01",
 				title: "docs",
-				url: "https://gitbook.io/",
+				url: "https://medium.com/@leonidasai_erc20/",
 				offsite: !0
 			}];
 			var I = n(3362),
@@ -10560,7 +10560,7 @@
 						}), (0, w.jsxs)("div", {
 							className: "flex items-center gap-4  z-[100]",
 							children: [(0, w.jsx)(J.Z, {}), (0, w.jsxs)(F(), {
-								href: "https://app.helmet.finance/",
+								href: "https://app.leonidasai.xyz/",
 								target: "_blank",
 								className: (0, I.cn)(" z-[100] uppercase flex items-center justify-center gap-1 group w-full  bg-white duration-300 transition-all py-2 px-3"),
 								children: [(0, w.jsx)("span", {
