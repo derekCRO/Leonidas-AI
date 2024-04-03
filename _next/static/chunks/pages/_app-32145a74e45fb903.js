@@ -7527,7 +7527,7 @@
 							}), (0, eH.jsx)(rh.Z, {
 								children: (0, eH.jsx)("span", {
 									className: "absolute bottom-36 z-[10000000] md:relative text-md lg:text-xl left-4 md:left-auto md:bottom-auto  font-canela italic",
-									children: "CA:0x0123456789"
+									children: "CA:0x0BF3911695A65Fe5acfCb4C9A158806Ec5520387"
 								})
 							})]
 						}), [{
@@ -10223,7 +10223,7 @@
 			}, {
 				id: "navLink03",
 				title: "Dextools",
-				url: "https://www.dextools.io/app/en/ether/pair-explorer/0x",
+				url: "https://www.dextools.io/app/en/ether/pair-explorer/0x86e05335b94276039ccc26fce97489892c4d7f24",
 				offsite: !0
 			}, {
 				id: "navLink01",
