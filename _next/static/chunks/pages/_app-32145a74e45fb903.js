@@ -5230,7 +5230,7 @@
 				}],
 				e$ = [{
 					id: "navLink01",
-					name: "Docs",
+					name: "Medium",
 					link: "https://medium.com/@leonidasai_erc20/",
 					offsite: !0
 				}, {
